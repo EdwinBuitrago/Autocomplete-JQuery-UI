@@ -1,4 +1,4 @@
-ar main = function() {
+var main = function() {
   $(function(){
     var cities = [
       "New York",
